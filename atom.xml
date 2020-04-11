@@ -2,24 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>寓洲的小岛</title>
   
-  
+  <subtitle>给未来的我。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-04-10T10:21:56.115Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="xiongsida.xyz/"/>
+  <updated>2020-04-11T18:42:26.490Z</updated>
+  <id>xiongsida.xyz/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>yuzhou</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>人间失格 观后感</title>
+    <link href="xiongsida.xyz/other/demo1/"/>
+    <id>xiongsida.xyz/other/demo1/</id>
+    <published>2020-04-11T18:18:05.000Z</published>
+    <updated>2020-04-11T18:42:26.490Z</updated>
+    
+    <content type="html"><![CDATA[<p>叶藏的内心独白是超世的，他能读懂人内心肮脏的思想，但是他也能装出世人所喜爱的样子，尽管情非所愿，尽管被当做小丑看待。他的一生完完全全是在走下坡路，不，是走向深渊。殉情，吸毒，被“包养”，等丑陋事件。</p><p>“我对这个世界渐渐地也不再小心翼翼了，认为世界再也不是令人恐惧的地方。”这或许是他内心的转折，因为在他心目中，人，是恐惧的。他不再害怕恐惧，因为他也具有了伤害别人的手段，变得和人一样。既然是同类，有何可惧？</p><p>“我失去身为人的资格了”</p><p>“我已经完完全全不是人了。”</p><p>这是叶藏内心最中肯的想法，已无路回头了。是谁把我变成这样的？是堀木？是父亲？还是女人？</p><p>“我们所认识的阿叶是非常正直，相当机灵的，若是不喝酒的话，不，就算喝了酒，他也是个像神一样的孩子。”</p><p>再此，送给我的朋友一句话：“无暇的信赖心是罪的根源，希望多年以后我们还是认识的我们。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;叶藏的内心独白是超世的，他能读懂人内心肮脏的思想，但是他也能装出世人所喜爱的样子，尽管情非所愿，尽管被当做小丑看待。他的一生完完全全是在走下坡路，不，是走向深渊。殉情，吸毒，被“包养”，等丑陋事件。&lt;/p&gt;
+&lt;p&gt;“我对这个世界渐渐地也不再小心翼翼了，认为世界再也不是令人恐
+      
+    
+    </summary>
+    
+    
+      <category term="other" scheme="xiongsida.xyz/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/04/10/hello-world/"/>
-    <id>http://yoursite.com/2020/04/10/hello-world/</id>
+    <link href="xiongsida.xyz/uncategorized/hello-world/"/>
+    <id>xiongsida.xyz/uncategorized/hello-world/</id>
     <published>2020-04-10T10:21:56.114Z</published>
     <updated>2020-04-10T10:21:56.115Z</updated>
     

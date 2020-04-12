@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>寓洲的小岛</title>
+  <title>洲</title>
   
   <subtitle>给未来的我。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="xiongsida.xyz/"/>
-  <updated>2020-04-12T06:36:33.183Z</updated>
+  <updated>2020-04-12T09:22:42.606Z</updated>
   <id>xiongsida.xyz/</id>
   
   <author>
@@ -17,16 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>postgeiweilaidewo</title>
-    <link href="xiongsida.xyz/uncategorized/postgeiweilaidewo/"/>
-    <id>xiongsida.xyz/uncategorized/postgeiweilaidewo/</id>
+    <title>给未来的自己</title>
+    <link href="xiongsida.xyz/%E9%9A%8F%E7%AC%94/postgeiweilaidewo/"/>
+    <id>xiongsida.xyz/%E9%9A%8F%E7%AC%94/postgeiweilaidewo/</id>
     <published>2020-04-12T06:36:33.000Z</published>
-    <updated>2020-04-12T06:36:33.183Z</updated>
+    <updated>2020-04-12T09:22:42.606Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="随笔" scheme="xiongsida.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
   </entry>

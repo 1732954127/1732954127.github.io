@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="xiongsida.xyz/"/>
-  <updated>2020-04-12T05:47:38.820Z</updated>
+  <updated>2020-04-12T06:12:36.230Z</updated>
   <id>xiongsida.xyz/</id>
   
   <author>
@@ -17,19 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>手绘</title>
-    <link href="xiongsida.xyz/uncategorized/postpainting/"/>
-    <id>xiongsida.xyz/uncategorized/postpainting/</id>
-    <published>2020-04-12T05:41:41.000Z</published>
-    <updated>2020-04-12T05:47:38.820Z</updated>
+    <title>postAbout Me</title>
+    <link href="xiongsida.xyz/uncategorized/postAbout-Me/"/>
+    <id>xiongsida.xyz/uncategorized/postAbout-Me/</id>
+    <published>2020-04-12T05:57:32.000Z</published>
+    <updated>2020-04-12T06:12:36.230Z</updated>
     
-    <content type="html"><![CDATA[<p>images/lufe.jpg<br>images/xiamu.jpg<br>images/shaonv.jpg</p>]]></content>
+    <content type="html"><![CDATA[<p>昵称：寓洲<br>QQ：1732954127<br>微信：a1732954127</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;images/lufe.jpg&lt;br&gt;images/xiamu.jpg&lt;br&gt;images/shaonv.jpg&lt;/p&gt;
+        &lt;p&gt;昵称：寓洲&lt;br&gt;QQ：1732954127&lt;br&gt;微信：a1732954127&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>手绘</title>
+    <link href="xiongsida.xyz/uncategorized/postpainting/"/>
+    <id>xiongsida.xyz/uncategorized/postpainting/</id>
+    <published>2020-04-12T05:41:41.000Z</published>
+    <updated>2020-04-12T06:14:07.199Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/lufe.jpg" alt=""><br><img src="/images/xiamu.jpg" alt=""><br><img src="/images/shaonv.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/lufe.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/xiamu.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/shaonv.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
       
     

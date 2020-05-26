@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="xiongsida.xyz/"/>
-  <updated>2020-05-10T14:38:59.491Z</updated>
+  <updated>2020-05-22T11:15:02.243Z</updated>
   <id>xiongsida.xyz/</id>
   
   <author>
@@ -17,13 +17,57 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>PS学习笔记</title>
+    <link href="xiongsida.xyz/uncategorized/PS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>xiongsida.xyz/uncategorized/PS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2020-05-22T11:15:01.982Z</published>
+    <updated>2020-05-22T11:15:02.243Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="PS学习笔记"><a href="#PS学习笔记" class="headerlink" title="PS学习笔记"></a>PS学习笔记</h1><h2 id="1-工具栏快捷键"><a href="#1-工具栏快捷键" class="headerlink" title="1. 工具栏快捷键"></a>1. 工具栏快捷键</h2><ol><li>v 移动工具</li><li>m 矩形工具</li><li>l 套索工具<ul><li>磁性套索工具（利用色差识别边界）</li></ul></li></ol><h2 id="2-常用快捷键"><a href="#2-常用快捷键" class="headerlink" title="2. 常用快捷键"></a>2. 常用快捷键</h2><ol><li>ctrl + o 打开</li><li>ctrl + n 新建</li><li>ctrl + k 首选项</li><li>ctrl + s 保存</li><li>ctrl + shift + s 另存为</li><li>按住 alt 查看指定单一图层</li><li>ctrl + t 自由变换</li><li>按住 ctrl 多选图层</li><li>ctrl + z 撤销</li><li>按住 shift 增加选区</li><li>按住 alt 减少选区</li><li>按住 shift + alt 与选区交叉（交集）</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;PS学习笔记&quot;&gt;&lt;a href=&quot;#PS学习笔记&quot; class=&quot;headerlink&quot; title=&quot;PS学习笔记&quot;&gt;&lt;/a&gt;PS学习笔记&lt;/h1&gt;&lt;h2 id=&quot;1-工具栏快捷键&quot;&gt;&lt;a href=&quot;#1-工具栏快捷键&quot; class=&quot;headerlink&quot; 
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>随笔</title>
+    <link href="xiongsida.xyz/uncategorized/%E9%9A%8F%E7%AC%94/"/>
+    <id>xiongsida.xyz/uncategorized/%E9%9A%8F%E7%AC%94/</id>
+    <published>2020-05-16T01:05:53.209Z</published>
+    <updated>2020-05-26T11:46:31.083Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><h2 id="我可能不值得被爱吧。"><a href="#我可能不值得被爱吧。" class="headerlink" title="我可能不值得被爱吧。"></a>我可能不值得被爱吧。</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;关于&quot;&gt;&lt;a href=&quot;#关于&quot; class=&quot;headerlink&quot; title=&quot;关于&quot;&gt;&lt;/a&gt;关于&lt;/h1&gt;&lt;h2 id=&quot;我可能不值得被爱吧。&quot;&gt;&lt;a href=&quot;#我可能不值得被爱吧。&quot; class=&quot;headerlink&quot; title=&quot;我可能不值
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>商用厨房设计方案</title>
     <link href="xiongsida.xyz/uncategorized/%E5%95%86%E7%94%A8%E5%8E%A8%E6%88%BF%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88/"/>
     <id>xiongsida.xyz/uncategorized/%E5%95%86%E7%94%A8%E5%8E%A8%E6%88%BF%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88/</id>
     <published>2020-05-10T14:31:32.231Z</published>
-    <updated>2020-05-10T14:38:59.491Z</updated>
+    <updated>2020-05-18T10:00:59.128Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="商用厨房设计方案"><a href="#商用厨房设计方案" class="headerlink" title="商用厨房设计方案"></a>商用厨房设计方案</h1><h2 id="1-整体设计规范"><a href="#1-整体设计规范" class="headerlink" title="1. 整体设计规范"></a>1. 整体设计规范</h2><ol><li><p>面积划分</p><ul><li><p>规范面积划分100人约30m2，100以上每加1人加0.3m2，1000人以上超过部分每加1人加0.2m2。</p><ul><li>建议厨房占餐饮总面积的20%，不能低于10%。</li></ul></li><li><p>粗加工占比10%以上，主厨房占比50%以上，备餐间占比15%以上，消洗间占比15%以上。</p></li><li><p>厨房主过道至少为1.5米，通道门至少1米，工作区过道至少1米，厨师区过道至少0.9米。</p></li></ul></li><li><p>主要设备概算</p><ol><li>小炒炉一个炉头 约50人<ul><li>部队，学校等统一类约100人。</li></ul></li><li>大锅灶 约100人<ul><li>统一类约100人。</li></ul></li><li>蒸柜，蒸箱 <ul><li>单门蒸柜约200<del>300人主食或100</del>150人蒸菜。三层蒸柜约50<del>100人主食或30</del>50人蒸菜。</li></ul></li><li>其它加热设备200人以下中餐厅不宜超过2台/种。</li><li>烤箱以两到三层为宜。</li></ol></li><li><p>行业标准</p><ol><li>脏净分离（出品路线与收残路线不交叉）</li><li>生熟分离（出品路线与进料路线不交叉）</li><li>冷热分离</li></ol></li><li><p>尽量缩短输送流程</p></li><li><p>了解厨房的既定菜式，最大就餐人数，预计厨房设计档次。</p></li></ol><h2 id="2-厨房区域划分"><a href="#2-厨房区域划分" class="headerlink" title="2. 厨房区域划分"></a>2. 厨房区域划分</h2><h3 id="2-1-主要区域"><a href="#2-1-主要区域" class="headerlink" title="2.1 主要区域"></a>2.1 主要区域</h3><ol><li>储存区<ol><li>更衣间</li><li>收货区</li><li>仓库<ul><li>主食仓库<ul><li>米面架，</li></ul></li><li>副食仓库</li><li>冷藏库</li><li>冷冻库</li></ul></li></ol></li><li>加工区<ol><li>蔬菜加工间</li><li>鱼类加工间</li><li>肉类加工间<ul><li>靠近主厨房</li></ul></li></ol></li><li>主厨房<ol><li>切配区</li><li>打荷区<ul><li>双通工作台</li></ul></li><li>烹饪区<ul><li>厨房与餐厅之间采用双门双道。</li></ul></li></ol></li><li>洗消区<ol><li>洗碗间<ul><li>应靠近餐厅，厨房，并力求与餐厅在同一平面，避免与厨房其它功能区之间出现交叉流线。</li></ul></li><li>保洁间<ul><li>靠近洗碗间</li></ul></li></ol></li><li>备餐区<ul><li>应处于餐厅，厨房低过渡地带</li></ul></li></ol><h3 id="2-2-按需求配备区域"><a href="#2-2-按需求配备区域" class="headerlink" title="2.2 按需求配备区域"></a>2.2 按需求配备区域</h3><ol><li>面点间<ol><li>面点制作</li><li>面点蒸煮</li></ol></li><li>烧腊间<ol><li>风干间</li></ol></li><li>凉菜间</li><li>明档<ol><li>点心明档</li><li>烧腊明档</li><li>凉菜明档</li><li>刺身明档</li></ol></li><li>售卖区</li></ol><h2 id="3-商用厨房流程动线"><a href="#3-商用厨房流程动线" class="headerlink" title="3. 商用厨房流程动线"></a>3. 商用厨房流程动线</h2><p><img src="%E5%95%86%E7%94%A8%E5%8E%A8%E6%88%BF%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88.assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200510223316.jpg" alt=""></p><h2 id="4-商用厨房区域安排"><a href="#4-商用厨房区域安排" class="headerlink" title="4. 商用厨房区域安排"></a>4. 商用厨房区域安排</h2><p><img src="%E5%95%86%E7%94%A8%E5%8E%A8%E6%88%BF%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88.assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200510223242.jpg" alt=""></p><p><img src="%E5%95%86%E7%94%A8%E5%8E%A8%E6%88%BF%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88.assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200510223305.jpg" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="商用厨房设计方案"><a href="#商用厨房设计方案" class="headerlink" title="商用厨房设计方案"></a>商用厨房设计方案</h1><h2 id="1-整体设计规范"><a href="#1-整体设计规范" class="headerlink" title="1. 整体设计规范"></a>1. 整体设计规范</h2><ol><li><p>面积划分</p><ul><li><p>规范面积划分100人约30m2，100以上每加1人加0.3m2，1000人以上超过部分每加1人加0.2m2。</p><ul><li>建议厨房占餐饮总面积的20%，不能低于10%。</li></ul></li><li><p>粗加工占比10%以上，主厨房占比50%以上，备餐间占比15%以上，消洗间占比15%以上。</p></li><li><p>厨房主过道至少为1.5米，通道门至少1米，工作区过道至少1米，厨师区过道至少0.9米。</p></li></ul></li><li><p>主要设备概算</p><ol><li>小炒炉一个炉头 约50人<ul><li>部队，学校等统一类约100人。</li></ul></li><li>大锅灶 约100人<ul><li>统一类约100人。</li></ul></li><li>蒸柜，蒸箱 <ul><li>单门蒸柜约200<del>300人主食或100</del>150人蒸菜。三层蒸柜约50<del>100人主食或30</del>50人蒸菜。</li></ul></li><li>其它加热设备200人以下中餐厅不宜超过2台/种。</li><li>烤箱以两到三层为宜。</li></ol></li><li><p>行业标准</p><ol><li>脏净分离（出品路线与收残路线不交叉）</li><li>生熟分离（出品路线与进料路线不交叉）</li><li>冷热</li></ol></li><li><p>尽量缩短输送流程</p></li><li><p>了解厨房的既定菜式，最大就餐人数，预计厨房设计档次。</p></li></ol><h2 id="2-厨房区域划分"><a href="#2-厨房区域划分" class="headerlink" title="2. 厨房区域划分"></a>2. 厨房区域划分</h2><h3 id="2-1-主要区域"><a href="#2-1-主要区域" class="headerlink" title="2.1 主要区域"></a>2.1 主要区域</h3><ol><li><p>储存区</p><ol><li>更衣间<ul><li>更衣柜，水池</li></ul></li><li>收货区<ul><li>平板车，电子货称</li></ul></li><li>仓库<ul><li>主食仓库<ul><li>米面架，</li></ul></li><li>副食仓库<ul><li>平板货架</li></ul></li><li>冷藏库<ul><li>平板货架</li></ul></li><li>冷冻库</li><li>平板货架</li></ul></li></ol></li><li><p>加工区</p><ol><li><p>蔬菜加工间</p><ul><li>大单星水池，货架，多功能切菜机，土豆脱皮机。</li></ul></li><li><p>鱼类加工间</p><ul><li>杀鱼台，货架</li></ul></li><li><p>肉类加工间</p><ul><li><p>单星带平台，绞切肉机，货架</p></li><li><p>靠近主厨房</p></li></ul></li></ol></li><li><p>主厨房</p><ol><li><p>切配区</p><ul><li>双层平板工作台，双门平台雪柜，四（六）门冰箱，水池，台面立架</li></ul></li><li><p>打荷区</p><ul><li>双通工作台，双通暖碟工作台</li></ul></li><li><p>烹饪区</p><ul><li><p>炒炉，大锅灶，炉拼台，海鲜蒸柜，煲仔炉，矮汤炉，蒸饭车。</p></li><li><p>厨房与餐厅之间采用双门双道。</p></li></ul></li></ol></li><li><p>洗消区</p><ol><li><p>洗碗间</p><ul><li><p>收残台，洗碗机，水池，平板工作台，开水器。</p></li><li><p>应靠近餐厅，厨房，并力求与餐厅在同一平面，避免与厨房其它功能区之间出现交叉流线。</p></li></ul></li><li><p>保洁间</p><ul><li><p>消毒柜，碗柜</p></li><li><p>靠近洗碗间</p></li></ul></li></ol></li><li><p>备餐区</p><ul><li><p>单通工作台，双门宴会保温车</p></li><li><p>应处于餐厅，厨房低过渡地带</p></li></ul></li></ol><h3 id="2-2-按需求配备区域"><a href="#2-2-按需求配备区域" class="headerlink" title="2.2 按需求配备区域"></a>2.2 按需求配备区域</h3><ol><li>面点间<ol><li>面点制作<ul><li>木案工作台，面粉车，搅拌机，和面机，压面机，烤箱，醒发箱，饼盘车，电饼档，冰箱</li></ul></li><li>面点蒸煮<ul><li>蒸包炉，肠粉炉，粉面炉，小炒炉，煲仔炉，冰箱，吊天花蒸笼架</li></ul></li></ol></li><li>烧腊间<ul><li>烤鸭炉，烤猪炉，低汤炉。<ol><li>腌制间<ul><li>双层工作台，水池，冰箱</li></ul></li><li>风干间<ul><li>烧腊架</li></ul></li></ol></li></ul></li><li>凉菜间<ol><li>预进间<ul><li>水池</li></ul></li><li>双门平台雪柜，单通工作台，制冰机，冰箱，水池</li></ol></li><li>明档<ol><li>点心明档</li><li>烧腊明档</li><li>凉菜明档</li><li>刺身明档<ol><li>杀鱼台</li></ol></li></ol></li><li>售卖区<ol><li>（四，五，六格保温售饭柜），保饭车，保汤车，</li></ol></li></ol><h2 id="3-商用厨房流程动线"><a href="#3-商用厨房流程动线" class="headerlink" title="3. 商用厨房流程动线"></a>3. 商用厨房流程动线</h2><p><img src="%E5%95%86%E7%94%A8%E5%8E%A8%E6%88%BF%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88.assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200510223316.jpg" alt=""></p><h2 id="4-商用厨房区域安排"><a href="#4-商用厨房区域安排" class="headerlink" title="4. 商用厨房区域安排"></a>4. 商用厨房区域安排</h2><p><img src="%E5%95%86%E7%94%A8%E5%8E%A8%E6%88%BF%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88.assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200510223242.jpg" alt=""></p><p><img src="%E5%95%86%E7%94%A8%E5%8E%A8%E6%88%BF%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88.assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200510223305.jpg" alt=""></p><h2 id="5-关于排烟"><a href="#5-关于排烟" class="headerlink" title="5. 关于排烟"></a>5. 关于排烟</h2><ol><li><p>以炉头计算：每个炉头取2000<del>2500风量m3/h计算，蒸柜2000，煲仔炉，低汤炉取1000</del>1500</p></li><li><p>以距离计算：一般每米烟罩取2000~2500m3/h计算</p></li><li><p>烟管风速一般取10~15m/s </p></li><li><p>风管截面积估算：A = Q/U*3600          面积=风量/风速x3600</p></li><li><p>风管截面尺寸估算：（bxh)=A   例：设A=0.36m2   主管高0.6  （0.6xh）=0.36   h=0.6</p></li><li><p>截面积&gt;0.07m2 选矩形风s管 &lt; 0.07选圆形风管</p></li><li><p>烟罩吸口管（分烟管）一般设250x300，最大不超过300x300（单位mm）</p></li><li><p>风量和功率关系表（估算）</p><table><thead><tr><th align="center">风量</th><th align="center">功率</th><th align="center">风量</th><th align="center">功率</th></tr></thead><tbody><tr><td align="center">3000</td><td align="center">0.75kw</td><td align="center">（20000~24000）</td><td align="center">11kw</td></tr><tr><td align="center">（6000~7000）</td><td align="center">2.2kw</td><td align="center">（24000~28000）</td><td align="center">15kw</td></tr><tr><td align="center">（8000~10000）</td><td align="center">5.5kw</td><td align="center">（28000~32000）</td><td align="center">18kw</td></tr><tr><td align="center">（13000~14000）</td><td align="center">7.5kw</td><td align="center">（45000~50000）</td><td align="center">30kw</td></tr><tr><td align="center">（55000~64000）</td><td align="center">37kw</td><td align="center">（64000~68000）</td><td align="center">45kw</td></tr></tbody></table></li></ol>]]></content>
     
     <summary type="html">
     
